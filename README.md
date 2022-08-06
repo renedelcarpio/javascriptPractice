@@ -1,7 +1,5 @@
 # javascriptPractice
 
-Chicos, esta es su primera tarea.
-
 ## 1. Clonar este repositorio
 
 Para clonar este repositorio tienen que seguir los siguientes pasos:

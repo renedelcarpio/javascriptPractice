@@ -1,20 +1,28 @@
 // Sólo pueden codificar dentro de las llaves de la función
 
 // Problema 1.
-// Dado un array de enteros, retornar un nuevo array con el doble de cada valor. Por ejemplo:
-// [1, 2, 3] --> [2, 4, 6]
+// Dado un entero, retornar un nuevo entero con el doble de valor. Por ejemplo:
 
 const double = (x) => {};
 
-const doubleResult = double([4, 8, 5]);
+const doubleResult = double(8);
 
 console.log(doubleResult);
 
 // Problema 2.
-// Dado un array de enteros, devolver un nuevo array con los numero pares.
+// Dado un string en minúsculas, devolver el string en mayúsculas.
 
-const evens = (x) => {};
+const upperCase = (x) => {};
 
-const evensResult = evens([5, 12, 13, 8, 49, 57]);
+const upperCaseResult = upperCase("let's code!");
 
-console.log(evensResult);
+console.log(upperCaseResult);
+
+// Problema 3.
+// Dado un número tipo string, devlover éste número tipo number.
+
+const toNumber = (x) => {};
+
+const toNumberResult = upperCase('324');
+
+console.log(toNumberResult);
